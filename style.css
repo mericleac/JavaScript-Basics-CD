@@ -1,0 +1,41 @@
+.window {
+    width: 970px;
+    background-color: #1b335d;
+    padding: 10px;
+}
+.window > div {
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+.header {
+    display: block;
+    background-color: #cf2f36;
+    min-height: 60px;
+    color: #c2d6eb;
+}
+.side-nav-bar {
+    display: inline-block;
+    background-color: #2a7d8c;
+    color: #bbd1e9;
+}
+.content {
+    display: inline-block;
+    background-color: black;
+    vertical-align: top;
+    color: #bbd1e9;
+    max-width: 670px;
+}
+.footer {
+    display: block;
+    background-color: #5d6673;
+    color: white;
+}
+.key {
+    color: #545cce;
+}
+ 
+a {
+    color: #57d2dd;
+    text-decoration: underline;
+}
